@@ -9,10 +9,10 @@ function App() {
           Hello World
         </p>
       </header>
-      <body>
+      <body className='body'>
         <p>this is the body of the page</p>
       </body>
-      <footer>footer</footer>
+      <footer className='footer'>footer</footer>
     </div>
   );
 }
