@@ -9,6 +9,10 @@ function App() {
           Hello World
         </p>
       </header>
+      <body>
+        <p>this is the body of the page</p>
+      </body>
+      <footer>footer</footer>
     </div>
   );
 }
